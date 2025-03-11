@@ -1006,3 +1006,14 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(var(--secondary-color), var(--primary-color));
 }
+.excel {
+    background: linear-gradient(45deg, #217346, #21a366);
+}
+
+.word {
+    background: linear-gradient(45deg, #2b579a, #185abd);
+}
+
+.powerpoint {
+    background: linear-gradient(45deg, #b7472a, #d24726);
+}
